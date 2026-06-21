@@ -1,0 +1,5 @@
+{
+  "token": "你的Discord機器人Token",
+  "clientId": "你的應用程式ID",
+  "guildId": "你的伺服器ID"
+}
